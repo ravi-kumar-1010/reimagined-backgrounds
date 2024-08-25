@@ -20,3 +20,8 @@ pip install -r requirements.txt
 python run.py --image ./input_image.jpg --text-prompt "text prompt by user" --output ./output_image.png --zoom 2
 
 ```
+# Free Demo
+
+# [Huggingface Space to tryout the Model](https://huggingface.co/spaces/ravikumar101/avataar)
+
+
