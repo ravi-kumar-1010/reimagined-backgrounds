@@ -22,6 +22,8 @@ python run.py --image ./input_image.jpg --text-prompt "text prompt by user" --ou
 ```
 # Free Demo
 
-# [Huggingface Space to tryout the Model](https://huggingface.co/spaces/ravikumar101/avataar)
+[Huggingface Space to tryout the Model](https://huggingface.co/spaces/ravikumar101/avataar)
+
+Note: The Demo is painfully slow due to limited resources.
 
 
